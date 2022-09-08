@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Juicer",
+            "request": "launch",
+            "mainClass": "Juicer",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Asgn6",
+            "request": "launch",
+            "mainClass": "Asgn6",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Asgn1",
+            "request": "launch",
+            "mainClass": "Asgn1",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Asgn2",
+            "request": "launch",
+            "mainClass": "Asgn2",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Asgn3",
+            "request": "launch",
+            "mainClass": "Asgn3",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Asgn4",
+            "request": "launch",
+            "mainClass": "Asgn4",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Asgn4_1",
+            "request": "launch",
+            "mainClass": "Asgn4_1",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Asgn5",
+            "request": "launch",
+            "mainClass": "Asgn5",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch D1",
+            "request": "launch",
+            "mainClass": "D1",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dis2",
+            "request": "launch",
+            "mainClass": "Dis2",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dis3",
+            "request": "launch",
+            "mainClass": "Dis3",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dis4",
+            "request": "launch",
+            "mainClass": "Dis4",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dis5",
+            "request": "launch",
+            "mainClass": "Dis5",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dis6",
+            "request": "launch",
+            "mainClass": "Dis6",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dis7",
+            "request": "launch",
+            "mainClass": "Dis7",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Discussion6",
+            "request": "launch",
+            "mainClass": "Discussion6",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch HunterGanungDisc4",
+            "request": "launch",
+            "mainClass": "HunterGanungDisc4",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wk2_Discussion",
+            "request": "launch",
+            "mainClass": "Wk2_Discussion",
+            "projectName": "CMIS 141_ab5f0b55"
+        },
+        {
+            "type": "java",
+            "name": "Launch discussion1",
+            "request": "launch",
+            "mainClass": "discussion1",
+            "projectName": "CMIS 141_ab5f0b55"
+        }
+    ]
+}
